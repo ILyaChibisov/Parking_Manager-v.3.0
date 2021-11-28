@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>tb.jpg</file>
+    <file>brend.png</file>
+    <file>22.png</file>
+    <file>barrier.png</file>
+    <file>2222.png</file>
+  </qresource>
+</RCC>
